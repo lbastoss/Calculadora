@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: cemter;
+    height: 100vh;
+    background-color: #f7f7f7;
+
+}
+
+.calculator {
+    width: 300px;
+    background-color: #464646;
+    border-radius: 10px;
+    box-shadow: 0px 4px 4px #00000040;
+    font-family: "Helvetica Neve", "sans-serif";
+    overflow: hidden;
+}
